@@ -1,0 +1,12 @@
+{
+    "name": "NodeParse",
+    "description": "Option parser with generated usage and commands",
+    "version": "0.6.0",
+    "author": "Ritvik Choudhary",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/Ritvik1512/NodeParse.git"
+    },
+    "main": "./lib/NodeParse",
+    "keywords": ["NodeParse", "option parser", "command line", "options", "parser", "nomnom"]
+}
